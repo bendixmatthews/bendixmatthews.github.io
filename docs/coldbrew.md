@@ -1,3 +1,8 @@
+---
+layout: page
+title: "coldbrew"
+permalink: /coldbrew/
+---
 # Ben's Guide to Cold Brew Coffee 
 Cold brew is unequivocally the the best way to make and drink coffee.
 It is easy to make, requires less equipment than other forms of coffee, and tastes less bitter than hot brewing methods.
